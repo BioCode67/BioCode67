@@ -1,6 +1,14 @@
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Hi!+I'm+Juhyung+Kim+👋;AI+%7C+Data+Analysis+%7C+Backend+Developer;Yeungnam+Univ.+Computer+Engineering;Always+learning+new+things!)](https://git.io/typing-svg)
+
+<!-- Visitor Counter -->
+![Visitor Count](https://komarev.com/ghpvc/?username=BioCode67&color=blue&style=flat)
+
+---
+
 # Hi there! 👋 I'm Juhyung Kim
 
-> A 2nd-year Computer Engineering student at Yeungnam University
+> A 2nd-year Computer Engineering student at Yeungnam University  
 > Aspiring developer interested in AI · Data Analysis · Backend Development
 
 ---
@@ -53,6 +61,38 @@
 - Strengthen Backend Development skills
 - Contribute to open source projects via Git/GitHub
 - Build consistent and professional version control habits
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Juhyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=BioCode67&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BioCode67&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BioCode67&theme=tokyonight)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophy
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BioCode67&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
