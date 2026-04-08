@@ -68,9 +68,9 @@
 
 <div align="center">
 
-![Juhyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=BioCode67&show_icons=true&theme=tokyonight)
+[![Juhyung's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BioCode67&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/BioCode67)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BioCode67&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BioCode67&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/BioCode67)
 
 </div>
 
@@ -90,7 +90,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BioCode67&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BioCode67&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
